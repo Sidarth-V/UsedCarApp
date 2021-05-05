@@ -11,7 +11,9 @@ import SwiftUI
 struct UsedCarAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView{
+                PickerView()
+            }
         }
     }
 }

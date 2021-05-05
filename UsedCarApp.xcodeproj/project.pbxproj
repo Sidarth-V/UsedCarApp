@@ -8,18 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		41614B292641A00000A6084F /* UsedCarAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41614B282641A00000A6084F /* UsedCarAppApp.swift */; };
-		41614B2B2641A00000A6084F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41614B2A2641A00000A6084F /* ContentView.swift */; };
 		41614B2D2641A00300A6084F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41614B2C2641A00300A6084F /* Assets.xcassets */; };
 		41614B302641A00300A6084F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41614B2F2641A00300A6084F /* Preview Assets.xcassets */; };
+		41614B382641A09E00A6084F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41614B372641A09E00A6084F /* LaunchScreen.storyboard */; };
+		41614B3A2641A2D500A6084F /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41614B392641A2D500A6084F /* PickerView.swift */; };
+		418F38EA264258000010E934 /* Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418F38E9264258000010E934 /* Code.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		41614B252641A00000A6084F /* UsedCarApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UsedCarApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41614B282641A00000A6084F /* UsedCarAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedCarAppApp.swift; sourceTree = "<group>"; };
-		41614B2A2641A00000A6084F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41614B2C2641A00300A6084F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41614B2F2641A00300A6084F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		41614B312641A00300A6084F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41614B372641A09E00A6084F /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		41614B392641A2D500A6084F /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
+		418F38E9264258000010E934 /* Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Code.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,10 +57,11 @@
 			isa = PBXGroup;
 			children = (
 				41614B282641A00000A6084F /* UsedCarAppApp.swift */,
-				41614B2A2641A00000A6084F /* ContentView.swift */,
+				41614B3B2641A30E00A6084F /* Views */,
 				41614B2C2641A00300A6084F /* Assets.xcassets */,
 				41614B312641A00300A6084F /* Info.plist */,
 				41614B2E2641A00300A6084F /* Preview Content */,
+				41614B372641A09E00A6084F /* LaunchScreen.storyboard */,
 			);
 			path = UsedCarApp;
 			sourceTree = "<group>";
@@ -67,6 +72,15 @@
 				41614B2F2641A00300A6084F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		41614B3B2641A30E00A6084F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				41614B392641A2D500A6084F /* PickerView.swift */,
+				418F38E9264258000010E934 /* Code.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41614B382641A09E00A6084F /* LaunchScreen.storyboard in Resources */,
 				41614B302641A00300A6084F /* Preview Assets.xcassets in Resources */,
 				41614B2D2641A00300A6084F /* Assets.xcassets in Resources */,
 			);
@@ -138,8 +153,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41614B2B2641A00000A6084F /* ContentView.swift in Sources */,
 				41614B292641A00000A6084F /* UsedCarAppApp.swift in Sources */,
+				41614B3A2641A2D500A6084F /* PickerView.swift in Sources */,
+				418F38EA264258000010E934 /* Code.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
