@@ -1,5 +1,5 @@
 # Carpricious
-##### Your one stop aplication for all things to do with used cars. 
+##### Your one stop application for all things to do with used cars. 
 &nbsp;
 
 
