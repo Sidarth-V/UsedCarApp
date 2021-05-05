@@ -9,10 +9,10 @@ You can refer to this dataset if you want to.
 https://www.kaggle.com/saisaathvik/used-cars-dataset-from-cardekhocom
 
 ## Inspiration
-In a developing country, a lot of the services are re-used. Most people prefer buying refurbished second hand cars given the price difference that exists as compared to new cars and the minute differences that exist in terms of use due to the ever rising populous who change cars regularly. The main issue however lies in understanding the price at which you can either resale or buy a used car. This is where Carpicious steps in.
+In a developing country, a lot of the services are re-used. Most people prefer buying refurbished second hand cars given the price difference that exists as compared to new cars and the minute differences that exist in terms of use due to the ever rising populous who change cars regularly. The main issue however lies in understanding the price at which you can either resell or buy a used car. This is where Carpricious steps in.
 
 ## What it does
-We take in certain specifications including the transmission type,	fuel type,	vehicle age,	km driven,	mileage,	engine,	max power and	seats on the car you want to sell or buy and using our novel AI, we give you a price estimate range for the vehicle. Further, we direct you to nearby dealerships and also provide you with further information on the specific car including 
+We take in certain specifications including the transmission type,	fuel type,	vehicle age,	km driven,	mileage,	engine,	max power and	seats on the car you want to sell or buy and using our novel AI, we give you a price estimate range for the vehicle. Further, we direct you to nearby dealerships and also provide you with further information on the specific car including retail price, make and model as well as other cars within a similar price range. 
 
 
 ## How we built it
@@ -28,7 +28,7 @@ The first issue we faced was with achieving a good fit regression with a high ac
 
 
 ## Accomplishments we're proud of
-Achieveing a high accuracy of 84 percent given the amount of data and the variablility of outliers. Integrating all the facets of the project together was another special part of the hack.
+Achieving a high accuracy of 84 percent given the amount of data and the variablility of outliers. Integrating all the facets of the project together was another special part of the hack.
 
 
 ## What we learned
