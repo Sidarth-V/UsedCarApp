@@ -1,4 +1,4 @@
-# Car-pricious
+# Car-pricious 🚙
 ##### Your one stop application for all things to do with used cars. 
 &nbsp;
 
