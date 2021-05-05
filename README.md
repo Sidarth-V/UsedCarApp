@@ -39,6 +39,4 @@ We learnt how to minimize models to fit directly into applications, connecting A
 https://www.kaggle.com/saisaathvik/used-cars-dataset-from-cardekhocom
 https://colab.research.google.com/drive/12Vjdz6lJZfQvwMg2_x-QQWNzmWAQ3YjG?usp=sharing
 
-!(../master/imgs/ss1.png)
-!(https://github.com/Sidarth-V/UsedCarApp/blob/[branch]/image.jpg?raw=true)
-!(imgs/ss2.png)
+
