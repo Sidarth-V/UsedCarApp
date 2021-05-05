@@ -39,5 +39,5 @@ We learnt how to minimize models to fit directly into applications, connecting A
 https://www.kaggle.com/saisaathvik/used-cars-dataset-from-cardekhocom
 https://colab.research.google.com/drive/12Vjdz6lJZfQvwMg2_x-QQWNzmWAQ3YjG?usp=sharing
 
-!(Carpricious Images/ss1.png)
-!(Carpricious Images/ss2.png)
+!(imgs/ss1.png)
+!(imgs/ss2.png)
